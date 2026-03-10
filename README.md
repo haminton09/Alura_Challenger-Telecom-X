@@ -1,4 +1,4 @@
-# Alura_Challenger-Telecom-X
+# Alura_Challenger
 
 # 📊 Alura Store Latam - Análisis de Datos
 
